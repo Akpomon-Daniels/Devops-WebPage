@@ -25,7 +25,7 @@ main {
 }
 
 .plan {
-    background: white;
+    background: black;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
@@ -38,7 +38,7 @@ main {
     color: #1F1F1F;
 }
 .plan p { 
-    color: #000000;
+    color: black;
 }
 .plan ul {
     list-style: none;
