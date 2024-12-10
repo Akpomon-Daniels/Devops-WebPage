@@ -37,7 +37,9 @@ main {
 .plan h2 {
     color: #1F1F1F;
 }
-
+.plan p { 
+    color: #000000;
+}
 .plan ul {
     list-style: none;
     padding: 0;
