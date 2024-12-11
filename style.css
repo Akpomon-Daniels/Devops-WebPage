@@ -25,7 +25,7 @@ main {
 }
 
 .plan {
-    background: black;
+    background: white;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
@@ -35,10 +35,10 @@ main {
 }
 
 .plan h2 {
-    color: #1F1F1F;
+    color: #000000;
 }
 .plan p { 
-    color: black;
+    color: #000000;
 }
 .plan ul {
     list-style: none;
@@ -64,8 +64,8 @@ button:hover {
 }
 
 footer {
-    text-align: left;
+    text-align: center;
     padding: 10px;
     background-color: #333;
-    color: green;
+    color: black;
 }
